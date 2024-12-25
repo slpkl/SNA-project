@@ -13,3 +13,7 @@
 2. ```data_experiments``` - creation of features from original datasets
 3. ```models``` - experiments on models
 4. ```result_analysis``` - interpretation of recieved results
+
+## Paper
+
+[link](https://docs.google.com/document/d/1YByUGT9oz5Kr4jIcoBj_H_CH5oIJVm-OXgrAroQScnY/edit?usp=sharing)
